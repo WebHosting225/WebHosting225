@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amith M @Amith225, maintainer of @WebHosting225
+- 👋 Hi, I’m Amith M [@Amith225](https://github.com/Amith225), maintainer of @WebHosting225
 
 <!---
 WebHosting225/WebHosting225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
